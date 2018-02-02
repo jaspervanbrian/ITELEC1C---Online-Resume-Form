@@ -1,0 +1,26 @@
+html, body {
+	width: 100%;
+}
+.container {
+	padding: 30px;
+	display: block;
+}
+.header {
+	text-align: center;
+}
+.content_container {
+	display: inline-block;
+	width: 31%;
+	padding: 10px;
+	height: 375px;
+}
+input {
+	height: 20px;
+}
+div#personal_info > p >input {
+	width: 250px;
+}
+input[type='file'] {
+	width: 200px;
+	height: 20px;
+}
